@@ -5,3 +5,5 @@ I currenty live in Charleston, SC. I love travelling, surfing, reading, running 
 I started out at College of Charleston, where I learned the basics of Python and Java. 
 I transferred to Oregon State last quarter, where I learned the basics of C. 
 I am currently an intern at a software company in Charleston, SC.
+At my internship, I am learning the basics of SQL and C#. 
+I test software and web products, provide technical support and work on various projects.
