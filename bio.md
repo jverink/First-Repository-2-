@@ -2,6 +2,8 @@ I currenty live in Charleston, SC. I love travelling, surfing, reading, running 
 
 **More info**
 
+I am originally from Wisconsin, but moved away four years ago to live somewhere warmer and near the coast.
+
 <h1>Programming Background</h1>
 
 I started out at College of Charleston, where I learned the basics of Python and Java. 
